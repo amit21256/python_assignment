@@ -1,2 +1,2 @@
 # python_assignment
-Landing python
+Learning python
